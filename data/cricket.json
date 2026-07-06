@@ -20,62 +20,62 @@
         "markets": [
             [
                 "Latest Result",
-                "RR won by 7 wickets"
+                "ENG-W won Semi-Final"
             ],
             [
                 "Match Status",
-                "Final score confirmed"
+                "T20WC Final Preview"
             ],
             [
                 "Next Watchlist",
-                "KKR vs MI"
+                "ZIM vs IND 1st T20I"
             ],
             [
                 "Upcoming",
-                "GT vs CSK"
+                "ENG vs WI 1st Test"
             ]
         ]
     },
     "matches": [
         {
-            "league": "Indian Premier League",
-            "teams": "KKR vs MI",
-            "team_a": "KKR",
-            "team_b": "MI",
-            "date_label": "May 20",
-            "time_label": "7:30 PM IST",
-            "venue": "Eden Gardens, Kolkata",
-            "calendar_dates": "20260520T140000Z/20260520T173000Z"
+            "league": "T20 International",
+            "teams": "ZIM vs IND",
+            "team_a": "ZIM",
+            "team_b": "IND",
+            "date_label": "July 6",
+            "time_label": "4:30 PM IST",
+            "venue": "Harare Sports Club",
+            "calendar_dates": "20260706T110000Z/20260706T143000Z"
         },
         {
-            "league": "Indian Premier League",
-            "teams": "GT vs CSK",
-            "team_a": "GT",
-            "team_b": "CSK",
-            "date_label": "May 21",
-            "time_label": "7:30 PM IST",
-            "venue": "Ahmedabad",
-            "calendar_dates": "20260521T140000Z/20260521T173000Z"
+            "league": "T20 International",
+            "teams": "ZIM vs IND",
+            "team_a": "ZIM",
+            "team_b": "IND",
+            "date_label": "July 7",
+            "time_label": "4:30 PM IST",
+            "venue": "Harare Sports Club",
+            "calendar_dates": "20260707T110000Z/20260707T143000Z"
         },
         {
-            "league": "Indian Premier League",
-            "teams": "SRH vs RCB",
-            "team_a": "SRH",
-            "team_b": "RCB",
-            "date_label": "May 22",
-            "time_label": "7:30 PM IST",
-            "venue": "Hyderabad",
-            "calendar_dates": "20260522T140000Z/20260522T173000Z"
+            "league": "Test Match",
+            "teams": "ENG vs WI",
+            "team_a": "ENG",
+            "team_b": "WI",
+            "date_label": "July 10",
+            "time_label": "3:30 PM IST",
+            "venue": "Lord's, London",
+            "calendar_dates": "20260710T100000Z/20260710T173000Z"
         },
         {
-            "league": "Indian Premier League",
-            "teams": "LSG vs PBKS",
-            "team_a": "LSG",
-            "team_b": "PBKS",
-            "date_label": "May 23",
-            "time_label": "7:30 PM IST",
-            "venue": "Lucknow",
-            "calendar_dates": "20260523T140000Z/20260523T173000Z"
+            "league": "T20 International",
+            "teams": "ZIM vs IND",
+            "team_a": "ZIM",
+            "team_b": "IND",
+            "date_label": "July 10",
+            "time_label": "4:30 PM IST",
+            "venue": "Harare Sports Club",
+            "calendar_dates": "20260710T110000Z/20260710T143000Z"
         }
     ]
 }
