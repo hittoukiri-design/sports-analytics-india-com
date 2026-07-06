@@ -299,36 +299,36 @@ require __DIR__ . '/includes/header.php';
       <article class="panel">
         <h3>Latest result recap and watchlist</h3>
         <div class="win-list">
-          <div class="win-row"><span>Rajasthan Royals 225/3 beat Lucknow Super Giants 220/5</span><span class="amount">RR won</span></div>
-          <div class="win-row"><span>Kolkata Knight Riders 247/2 vs Gujarat Titans 218/4</span><span class="amount">KKR won</span></div>
-          <div class="win-row"><span>Kolkata Knight Riders vs Mumbai Indians</span><span class="amount">May 20, 7:30 PM</span></div>
-          <div class="win-row"><span>Gujarat Titans vs Chennai Super Kings</span><span class="amount">May 21, 7:30 PM</span></div>
+          <div class="win-row"><span>England Women 169/5 beat South Africa Women 129/8</span><span class="amount">ENG-W won</span></div>
+          <div class="win-row"><span>Australia Women 199/7 beat Pakistan Women 86/10</span><span class="amount">AUS-W won</span></div>
+          <div class="win-row"><span>Australia Women vs England Women (Final)</span><span class="amount">July 5</span></div>
+          <div class="win-row"><span>Zimbabwe vs India (1st T20I)</span><span class="amount">July 6, 4:30 PM</span></div>
         </div>
       </article>
     </div>
     <div class="match-article-grid">
       <article class="match-article-card">
-        <img src="/assets/img/articles/cricket-betting-india-match.webp" alt="RR vs LSG result IPL 2026 cricket betting India recap" loading="lazy" decoding="async" width="1200" height="675">
+        <img src="/assets/img/articles/cricket-betting-india-match.webp" alt="AUS-W vs ENG-W final preview T20WC 2026" loading="lazy" decoding="async" width="1200" height="675">
         <div>
-          <span class="eyebrow">IPL 2026 Result</span>
-          <h3>RR vs LSG Result: Rajasthan win by 7 wickets</h3>
-          <a class="text-link" href="/rr-vs-lsg-result-ipl-2026/">Read match recap</a>
+          <span class="eyebrow">T20WC 2026 Final</span>
+          <h3>AUS-W vs ENG-W Final Preview: Lord's trophy test</h3>
+          <a class="text-link" href="/aus-w-vs-eng-w-final-preview-womens-t20-world-cup-2026/">Read match preview</a>
         </div>
       </article>
       <article class="match-article-card">
-        <img src="/assets/img/articles/cricket-betting-india-match.webp" alt="KKR vs GT result IPL 2026 cricket betting India recap" loading="lazy" decoding="async" width="1200" height="675">
+        <img src="/assets/img/articles/cricket-betting-india-match.webp" alt="ENG-W vs SA-W result T20WC 2026 recap" loading="lazy" decoding="async" width="1200" height="675">
         <div>
-          <span class="eyebrow">IPL 2026 Result</span>
-          <h3>KKR vs GT Result: Kolkata post 247/2 and win by 29 runs</h3>
-          <a class="text-link" href="/kkr-vs-gt-result-ipl-2026/">Read match recap</a>
+          <span class="eyebrow">T20WC 2026 Result</span>
+          <h3>ENG-W vs SA-W Result: England win by 40 runs</h3>
+          <a class="text-link" href="/eng-w-vs-sa-w-result-womens-t20-world-cup-2026/">Read match recap</a>
         </div>
       </article>
       <article class="match-article-card">
-        <img src="/assets/img/articles/cricket-betting-india-match.webp" alt="KKR vs MI cricket betting preview India" loading="lazy" decoding="async" width="1200" height="675">
+        <img src="/assets/img/articles/cricket-betting-india-match.webp" alt="AUS-W vs PAK-W result T20WC 2026 recap" loading="lazy" decoding="async" width="1200" height="675">
         <div>
-          <span class="eyebrow">Upcoming Match</span>
-          <h3>KKR vs MI Watchlist: prepare before the May 20 toss</h3>
-          <a class="text-link" href="/cricket-betting-india/">Open cricket guide</a>
+          <span class="eyebrow">T20WC 2026 Result</span>
+          <h3>AUS-W vs PAK-W Result: Australia win by 113 runs</h3>
+          <a class="text-link" href="/aus-w-vs-pak-w-result-womens-t20-world-cup-2026/">Read match recap</a>
         </div>
       </article>
     </div>
