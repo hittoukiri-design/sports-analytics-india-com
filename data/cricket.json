@@ -1,22 +1,22 @@
 {
-    "updated_at": "2026-05-20T02:20:00+08:00",
+    "updated_at": "2026-07-06T11:00:00+05:30",
     "source": "manual-cache",
     "featured": {
-        "badge": "Latest Result",
-        "title": "RR vs LSG: Rajasthan win by 7 wickets",
-        "subtitle": "IPL 2026 - May 19 Match 64 result - RR 225/3 beat LSG 220/5 in Jaipur",
+        "badge": "Upcoming Final",
+        "title": "AUS-W vs ENG-W: Lord's Trophy Test",
+        "subtitle": "T20 World Cup 2026 Final - July 5 at Lord's",
         "team_a": {
-            "code": "LSG",
-            "name": "Lucknow Super Giants",
-            "note": "220/5 in 20 overs"
+            "code": "AUS",
+            "name": "Australia Women",
+            "note": "Depth edge, balanced all-round options"
         },
         "team_b": {
-            "code": "RR",
-            "name": "Rajasthan Royals",
-            "note": "225/3 in 19.1 overs"
+            "code": "ENG",
+            "name": "England Women",
+            "note": "Home momentum, Sciver-Brunt form"
         },
-        "status_title": "Latest result",
-        "status_text": "Rajasthan Royals beat Lucknow Super Giants by 7 wickets in Jaipur. The next prep window moves to KKR vs MI, GT vs CSK and SRH vs RCB.",
+        "status_title": "Match note",
+        "status_text": "Australia holds a slight edge with their depth, but England's home momentum keeps them fully live. Verify toss and weather before any cricket betting India session.",
         "markets": [
             [
                 "Latest Result",

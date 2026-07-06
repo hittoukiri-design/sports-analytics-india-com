@@ -34,6 +34,21 @@ $promotion_cards = [
 ];
 
 $pages = [
+  'aus-w-vs-eng-w-final-preview-womens-t20-world-cup-2026' => [
+    'title' => 'AUS-W vs ENG-W Final Preview 2026: Lord\'s trophy test | Best Online Betting India',
+    'description' => 'Australia Women vs England Women T20 World Cup 2026 final preview for July 5 at Lord\'s with balanced context and responsible reminders.',
+    'h1' => 'AUS-W vs ENG-W Final Preview 2026: Lord\'s trophy test',
+    'kicker' => 'Cricket Preview - AUS-W vs ENG-W Final',
+    'intro' => 'Australia Women vs England Women final Sunday, July 5, 2026 ko Lord\'s, London mein scheduled hai. Australia depth vs England home momentum main story hai.',
+    'image' => '/assets/img/articles/cricket-betting-india-match.webp',
+    'image_alt' => 'AUS-W vs ENG-W final preview cover',
+    'sections' => [
+      ['Fixture snapshot', 'Australia Women (Depth edge), England Women (Home momentum), Venue: Lord\'s.'],
+      ['Australia ka route', 'Australia batting depth, all-round options aur final temperament ki wajah se slight paper edge ke saath start karegi.'],
+      ['England ka live route', 'Sciver-Brunt form, Knight composure aur home support England ko fully live rakhte hain. Powerplay damage control key rahega.'],
+      ['Balanced call', 'Australia slight edge, England strong live chance. Yeh opinion preview hai, guaranteed result nahi. No risk-free claim. Final se pehle toss, XI, weather aur fixed budget verify karo.'],
+    ],
+  ],
   'best-online-betting-india' => [
     'title' => 'YaarWin India Guide 2026: Register, Login, Bonus, Games & Withdrawal',
     'description' => 'Independent YaarWin India guide for register, login, bonus, UPI withdrawal, Aviator, Teen Patti, Wingo, Rummy, cricket betting and responsible play.',
