@@ -49,6 +49,20 @@ $pages = [
       ['Balanced call', 'Australia slight edge, England strong live chance. Yeh opinion preview hai, guaranteed result nahi. No risk-free claim. Final se pehle toss, XI, weather aur fixed budget verify karo.'],
     ],
   ],
+  'yaarwin-withdrawal-time-india' => [
+    'title' => 'YaarWin Withdrawal Time India 2026: UPI Limits and Speed Checks | Best Online Betting India',
+    'description' => 'Indian players researching YaarWin withdrawal time usually want to know how fast UPI payouts arrive, what limits apply, and how to prevent account delays.',
+    'h1' => 'YaarWin Withdrawal Time India 2026: UPI Limits and Speed Checks',
+    'kicker' => 'Payment and Withdrawal Guide',
+    'intro' => 'When searching for YaarWin withdrawal time, most users in India expect fast processing through UPI or IMPS. However, payout speed heavily depends on how well you prepare your account before requesting the withdrawal.',
+    'image' => '/assets/img/articles/yaarwin-withdrawal-time-india.webp',
+    'image_alt' => 'YaarWin Withdrawal Time India 2026 graphic',
+    'sections' => [
+      ['Typical Withdrawal Speeds', 'Under normal conditions, a standard UPI withdrawal is processed within a few minutes to an hour. IMPS transfers usually take a few hours but can slow down during bank holidays. First-time withdrawals often require additional verification.'],
+      ['Common Delay Reasons', 'Mismatched details between your YaarWin account and your UPI/Bank name are a primary cause of delays. Uncleared bonus turnover requirements and banking network congestion (NPCI) can also hold up payouts.'],
+      ['Best Practices for Fast Payouts', 'Always double-check your UPI ID, use the same payment method for both deposits and withdrawals, and prefer withdrawing during regular banking hours if using IMPS to avoid late-night network maintenance.'],
+    ],
+  ],
   'best-online-betting-india' => [
     'title' => 'YaarWin India Guide 2026: Register, Login, Bonus, Games & Withdrawal',
     'description' => 'Independent YaarWin India guide for register, login, bonus, UPI withdrawal, Aviator, Teen Patti, Wingo, Rummy, cricket betting and responsible play.',
