@@ -1,6 +1,6 @@
 <?php
 $site = [
-  'name' => 'Best Online Betting India',
+  'name' => 'Best Online Gaming India',
   'short_name' => 'BOBI',
   'url' => 'https://sports-analytics-hub.com',
   'register_url' => 'https://gamehub.org/#/register?invitationCode=72238107987',
@@ -25,18 +25,18 @@ $site_reviews = [
     'name' => 'Amit R.',
     'rating' => 5,
     'date' => '2026-05-03',
-    'text' => 'I liked having login, bonus and withdrawal guidance in one place. It feels more organized than jumping between random links and chats.',
+    'text' => 'I liked having login, bonus and redemption guidance in one place. It feels more organized than jumping between random links and chats.',
   ],
 ];
 
 $games = [
   ['name' => 'Wingo', 'label' => 'Colour Prediction', 'image' => '/assets/img/provider-games/wingo-thumb.webp', 'url' => '/wingo-game-india/'],
-  ['name' => 'Aviator', 'label' => 'Crash Game', 'image' => '/assets/img/provider-games/aviator-thumb.webp', 'url' => '/aviator-betting-india/'],
+  ['name' => 'Aviator', 'label' => 'Crash Game', 'image' => '/assets/img/provider-games/aviator-thumb.webp', 'url' => '/aviator-gaming-india/'],
   ['name' => 'Teen Patti', 'label' => 'Card Game', 'image' => '/assets/img/provider-games/teen-patti-thumb.webp', 'url' => '/teen-patti-online/'],
-  ['name' => 'Cricket', 'label' => 'Sports Betting', 'image' => '/assets/img/provider-games/cricket-thumb.webp', 'url' => '/cricket-betting-india/'],
-  ['name' => 'Rummy', 'label' => 'Real Money Cards', 'image' => '/assets/img/provider-games/rummy-thumb.webp', 'url' => '/rummy-game-india/'],
+  ['name' => 'Cricket', 'label' => 'Sports Gaming', 'image' => '/assets/img/provider-games/cricket-thumb.webp', 'url' => '/cricket-gaming-india/'],
+  ['name' => 'Rummy', 'label' => 'Virtual Coins Cards', 'image' => '/assets/img/provider-games/rummy-thumb.webp', 'url' => '/rummy-game-india/'],
   ['name' => 'Slots', 'label' => 'Jackpot Games', 'image' => '/assets/img/provider-games/slots-thumb.webp', 'url' => '/slots-game-india/'],
-  ['name' => 'Live Casino', 'label' => 'Real Dealer', 'image' => '/assets/img/provider-games/live-casino-thumb.webp', 'url' => '/live-casino-india/'],
+  ['name' => 'Live Arcade', 'label' => 'Real Dealer', 'image' => '/assets/img/provider-games/live-arcade-thumb.webp', 'url' => '/live-arcade-india/'],
   ['name' => 'Andar Bahar', 'label' => 'Fast Card Round', 'image' => '/assets/img/provider-games/andar-bahar-thumb.webp', 'url' => '/andar-bahar-online/'],
 ];
 
@@ -46,8 +46,8 @@ function e($value) {
 
 function page_meta($overrides = []) {
   $defaults = [
-    'title' => 'GameHub India Guide 2026: Register, Login, Bonus, Games & Withdrawal',
-    'description' => 'Independent GameHub India guide for register, login, bonus, UPI withdrawal, Aviator, Teen Patti, Wingo, Rummy, cricket betting and responsible play.',
+    'title' => 'GameHub India Guide 2026: Register, Login, Bonus, Games & Redemption',
+    'description' => 'Independent GameHub India guide for register, login, bonus, UPI redemption, Aviator, Teen Patti, Wingo, Rummy, cricket gaming and responsible play.',
     'canonical' => 'https://sports-analytics-hub.com/',
   ];
   return array_merge($defaults, $overrides);
@@ -60,7 +60,7 @@ function bobi_default_cricket_data(): array {
     'featured' => [
       'badge' => 'Daily Watchlist',
       'title' => 'IPL match watchlist updated for today',
-      'subtitle' => 'Best Online Betting India cricket guide - check toss, playing XI and responsible limits before match time',
+      'subtitle' => 'Best Online Gaming India cricket guide - check toss, playing XI and responsible limits before match time',
       'team_a' => [
         'code' => 'IPL',
         'name' => 'Today Match',
@@ -69,12 +69,12 @@ function bobi_default_cricket_data(): array {
       'team_b' => [
         'code' => 'Guide',
         'name' => 'Next Watch',
-        'note' => 'Review cricket betting India, Aviator, Teen Patti, Rummy and Wingo guides before playing',
+        'note' => 'Review cricket gaming India, Aviator, Teen Patti, Rummy and Wingo guides before playing',
       ],
       'status_title' => 'Match-day note',
-      'status_text' => 'Cricket schedules can change. Check current match feeds and your personal limits before opening any GameHub cricket betting session.',
+      'status_text' => 'Cricket schedules can change. Check current match feeds and your personal limits before opening any GameHub cricket gaming session.',
       'markets' => [
-        ['Today Focus', 'Cricket betting India'],
+        ['Today Focus', 'Cricket gaming India'],
         ['GameHub Prep', 'Register, wallet, limits'],
         ['Game Cluster', 'Aviator, Teen Patti, Rummy, Wingo'],
         ['Responsible Play', 'Wait for toss and team news'],

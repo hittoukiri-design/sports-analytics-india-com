@@ -48,21 +48,21 @@ $body_class = $body_class ?? '';
   <header class="site-header">
     <div class="top-strip">
       <span>Independent GameHub guide</span>
-      <span>India betting games</span>
+      <span>India gaming games</span>
       <span>Fast UPI access</span>
       <span>18+ play responsibly</span>
     </div>
     <nav class="nav-shell" aria-label="Main navigation">
-      <a class="brand" href="/" aria-label="Best Online Betting India home">
-        <img src="/assets/img/bobi-gamehub-logo-header.webp" alt="Best Online Betting India" width="128" height="128">
+      <a class="brand" href="/" aria-label="Best Online Gaming India home">
+        <img src="/assets/img/bobi-gamehub-logo-header.webp" alt="Best Online Gaming India" width="128" height="128">
       </a>
       <button class="nav-toggle" type="button" aria-expanded="false" aria-controls="site-menu">Menu</button>
       <div class="nav-menu" id="site-menu">
         <a href="/" class="nav-item">Home</a>
-        <a href="/best-online-betting-india/" class="nav-item">Best Betting</a>
-        <a href="/aviator-betting-india/" class="nav-item">Aviator</a>
+        <a href="/best-online-gaming-india/" class="nav-item">Best Gaming</a>
+        <a href="/aviator-gaming-india/" class="nav-item">Aviator</a>
         <a href="/teen-patti-online/" class="nav-item">Teen Patti</a>
-        <a href="/fast-withdrawal-betting-india/" class="nav-item">Withdraw</a>
+        <a href="/fast-redemption-gaming-india/" class="nav-item">Redeem</a>
         <a href="/blog/" class="nav-item">Guides</a>
       </div>
       <div class="nav-actions">

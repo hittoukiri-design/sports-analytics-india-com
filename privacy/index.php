@@ -1,7 +1,7 @@
 <?php
 $meta = [
-  'title' => 'Privacy Policy | Best Online Betting India',
-  'description' => 'Privacy policy for Best Online Betting India access guides and online betting information pages.',
+  'title' => 'Privacy Policy | Best Online Gaming India',
+  'description' => 'Privacy policy for Best Online Gaming India access guides and online gaming information pages.',
   'canonical' => 'https://sports-analytics-hub.com/privacy/',
 ];
 require dirname(__DIR__) . '/includes/header.php';
