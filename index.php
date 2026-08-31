@@ -1,9 +1,9 @@
 <?php
 require_once __DIR__ . '/includes/config.php';
 $meta = [
-  'title' => 'YaarWin India Guide 2026: Register, Login, Bonus, Games & Withdrawal',
-  'description' => 'Independent YaarWin India guide for register, login, bonus, UPI withdrawal, Aviator, Teen Patti, Wingo, Rummy, cricket betting and responsible play.',
-  'canonical' => 'https://bestonlinebettingindia.com/',
+  'title' => 'GameHub India Guide 2026: Register, Login, Bonus, Games & Withdrawal',
+  'description' => 'Independent GameHub India guide for register, login, bonus, UPI withdrawal, Aviator, Teen Patti, Wingo, Rummy, cricket betting and responsible play.',
+  'canonical' => 'https://sports-analytics-hub.com/',
 ];
 $reviewed_item = [
   '@type' => 'Organization',
@@ -51,7 +51,7 @@ $schema_items = [
     'url' => $site['url'],
     'logo' => $site['url'] . '/assets/img/favicon-192.png',
     'sameAs' => [
-      'https://yaarwinapp.co/',
+      'https://gamehub-app.co/',
       $site['telegram_url'],
     ],
     'aggregateRating' => [
@@ -65,11 +65,11 @@ $schema_items = [
   ...$schema_reviews,
   [
     '@type' => 'SoftwareApplication',
-    'name' => 'YaarWin',
+    'name' => 'GameHub',
     'applicationCategory' => 'GameApplication',
     'operatingSystem' => 'Android, iOS, Web',
     'url' => $site['register_url'],
-    'description' => 'YaarWin access for Aviator, Teen Patti, Rummy, Wingo colour prediction, cricket betting, live casino, UPI guidance and fast withdrawal support.',
+    'description' => 'GameHub access for Aviator, Teen Patti, Rummy, Wingo colour prediction, cricket betting, live casino, UPI guidance and fast withdrawal support.',
     'offers' => [
       '@type' => 'Offer',
       'price' => '0',
@@ -91,7 +91,7 @@ $schema_items = [
         'name' => 'What is Best Online Betting India?',
         'acceptedAnswer' => [
           '@type' => 'Answer',
-          'text' => 'Best Online Betting India is an independent guide for Indian users researching YaarWin registration, login access, popular games, UPI payment guidance, bonuses and withdrawal readiness.',
+          'text' => 'Best Online Betting India is an independent guide for Indian users researching GameHub registration, login access, popular games, UPI payment guidance, bonuses and withdrawal readiness.',
         ],
       ],
       [
@@ -104,7 +104,7 @@ $schema_items = [
       ],
       [
         '@type' => 'Question',
-        'name' => 'How do I register with the YaarWin invite code?',
+        'name' => 'How do I register with the GameHub invite code?',
         'acceptedAnswer' => [
           '@type' => 'Answer',
           'text' => 'Use the guided register button on this page. The invite code is 72238107987 and should remain fixed during registration.',
@@ -112,22 +112,22 @@ $schema_items = [
       ],
       [
         '@type' => 'Question',
-        'name' => 'Is this the official YaarWin website?',
+        'name' => 'Is this the official GameHub website?',
         'acceptedAnswer' => [
           '@type' => 'Answer',
-          'text' => 'No. This is an independent guide that helps users understand YaarWin access, registration, login, games and payment-related information.',
+          'text' => 'No. This is an independent guide that helps users understand GameHub access, registration, login, games and payment-related information.',
         ],
       ],
     ],
   ],
   [
     '@type' => 'Article',
-    'headline' => 'YaarWin India Guide 2026: Register, Login, Bonus, Games & Withdrawal',
+    'headline' => 'GameHub India Guide 2026: Register, Login, Bonus, Games & Withdrawal',
     'description' => $meta['description'],
     'mainEntityOfPage' => $site['url'] . '/',
     'image' => [
-      $site['url'] . '/assets/img/bobi-yaarwin-logo.webp',
-      $site['url'] . '/assets/img/bobi-yaarwin-logo-header.webp',
+      $site['url'] . '/assets/img/bobi-gamehub-logo.webp',
+      $site['url'] . '/assets/img/bobi-gamehub-logo-header.webp',
     ],
     'author' => [
       '@type' => 'Organization',
@@ -147,7 +147,7 @@ $schema_items = [
   ],
   [
     '@type' => 'ItemList',
-    'name' => 'Popular YaarWin Betting Games India',
+    'name' => 'Popular GameHub Betting Games India',
     'itemListElement' => array_map(static function ($game, $index) use ($site) {
       return [
         '@type' => 'ListItem',
@@ -177,26 +177,26 @@ require __DIR__ . '/includes/header.php';
 <section class="hero">
   <div class="container">
     <div class="announcement">
-      <span>Independent YaarWin guide for Indian players.</span>
+      <span>Independent GameHub guide for Indian players.</span>
       <span>15:42 IST • India</span>
     </div>
     <div class="hero-banner">
       <div class="hero-inner">
         <div>
-          <div class="kicker">YaarWin India guide • Register • Login • Bonus • Withdrawal</div>
-          <h1>YaarWin India Guide 2026: Register, Login, Bonus, Games & Withdrawal</h1>
-          <p class="hero-copy">A simple independent guide for Indian players who want to understand YaarWin register steps, login access, bonus checks, UPI payments, withdrawal readiness, Aviator, Teen Patti, Wingo, Rummy, cricket betting and responsible play before getting started.</p>
+          <div class="kicker">GameHub India guide • Register • Login • Bonus • Withdrawal</div>
+          <h1>GameHub India Guide 2026: Register, Login, Bonus, Games & Withdrawal</h1>
+          <p class="hero-copy">A simple independent guide for Indian players who want to understand GameHub register steps, login access, bonus checks, UPI payments, withdrawal readiness, Aviator, Teen Patti, Wingo, Rummy, cricket betting and responsible play before getting started.</p>
           <div class="hero-actions">
-            <a class="btn btn-primary" href="<?= e($site['register_url']) ?>" rel="nofollow noopener" target="_blank">Open YaarWin Register</a>
-            <a class="btn btn-ghost" href="/yaarwin-login/">Read Login Guide</a>
+            <a class="btn btn-primary" href="<?= e($site['register_url']) ?>" rel="nofollow noopener" target="_blank">Open GameHub Register</a>
+            <a class="btn btn-ghost" href="/gamehub-login/">Read Login Guide</a>
           </div>
           <p class="guide-disclosure">This page is an independent guide and may contain referral links. Always check the platform's latest terms before registering.</p>
         </div>
-        <aside class="hero-card" aria-label="YaarWin quick access">
+        <aside class="hero-card" aria-label="GameHub quick access">
           <h2>One Guide. Popular Games. Safer Access.</h2>
-          <p>Start with the YaarWin register guide, keep your invite code ready, and check YaarWin login, payment and withdrawal details before playing.</p>
+          <p>Start with the GameHub register guide, keep your invite code ready, and check GameHub login, payment and withdrawal details before playing.</p>
           <div class="win-pill"><span>Welcome Bonus Info</span><strong>Up to ₹25,000</strong></div>
-          <p class="bonus-note">Check current YaarWin terms before deposit. Bonus availability may depend on account, deposit and platform rules.</p>
+          <p class="bonus-note">Check current GameHub terms before deposit. Bonus availability may depend on account, deposit and platform rules.</p>
           <div class="win-pill"><span>Invite code</span><strong><?= e($site['invite_code']) ?></strong></div>
         </aside>
       </div>
@@ -218,9 +218,9 @@ require __DIR__ . '/includes/header.php';
     <div class="section-head">
       <div>
         <span class="eyebrow">Live lobby</span>
-        <h2>Trending YaarWin betting games Indian players check first</h2>
+        <h2>Trending GameHub betting games Indian players check first</h2>
       </div>
-      <p>These sections are built for real player intent: YaarWin login, YaarWin register, game choice, UPI recharge, bonus check and withdrawal readiness.</p>
+      <p>These sections are built for real player intent: GameHub login, GameHub register, game choice, UPI recharge, bonus check and withdrawal readiness.</p>
     </div>
     <div class="cricket-lobby">
       <div class="cricket-main">
@@ -240,11 +240,11 @@ require __DIR__ . '/includes/header.php';
             </div>
             <div class="team-score">
               <span class="team-badge gold"><?= e($cricket_featured['team_b']['code'] ?? 'Guide') ?></span>
-              <div><strong><?= e($cricket_featured['team_b']['name'] ?? 'Next Watch') ?></strong><small><?= e($cricket_featured['team_b']['note'] ?? 'Review YaarWin register and cricket guides early') ?></small></div>
+              <div><strong><?= e($cricket_featured['team_b']['name'] ?? 'Next Watch') ?></strong><small><?= e($cricket_featured['team_b']['note'] ?? 'Review GameHub register and cricket guides early') ?></small></div>
             </div>
             <div class="score-status">
               <strong><?= e($cricket_featured['status_title'] ?? 'Match-day note') ?></strong>
-              <span><?= e($cricket_featured['status_text'] ?? 'Check current cricket feeds before placing any YaarWin cricket betting session.') ?></span>
+              <span><?= e($cricket_featured['status_text'] ?? 'Check current cricket feeds before placing any GameHub cricket betting session.') ?></span>
             </div>
           </div>
           <div class="market-list">
@@ -293,7 +293,7 @@ require __DIR__ . '/includes/header.php';
         <div class="trending-list">
           <a class="trend-row" href="/cricket-betting-india/"><span class="rank">1</span><span>Check toss and playing XI <small>before match time</small></span><span class="mini-btn">Guide</span></a>
           <a class="trend-row" href="/register/"><span class="rank">2</span><span>Keep invite code <?= e($site['invite_code']) ?> <small>ready before registration</small></span><span class="mini-btn">Register</span></a>
-          <a class="trend-row" href="/yaarwin-withdrawal/"><span class="rank">3</span><span>Set budget first <small>do not chase losses</small></span><span class="mini-btn">Safety</span></a>
+          <a class="trend-row" href="/gamehub-withdrawal/"><span class="rank">3</span><span>Set budget first <small>do not chase losses</small></span><span class="mini-btn">Safety</span></a>
         </div>
       </article>
       <article class="panel">
@@ -340,7 +340,7 @@ require __DIR__ . '/includes/header.php';
     <div class="promo-grid">
       <article class="promo-card">
         <h3>Welcome Bonus Info</h3>
-        <p>Up to ₹25,000 may be shown in YaarWin bonus information. Check current terms before deposit because availability may depend on account, deposit and platform rules.</p>
+        <p>Up to ₹25,000 may be shown in GameHub bonus information. Check current terms before deposit because availability may depend on account, deposit and platform rules.</p>
         <a class="btn btn-primary" href="<?= e($site['register_url']) ?>" rel="nofollow noopener" target="_blank">Open Register</a>
       </article>
       <article class="promo-card light">
@@ -350,8 +350,8 @@ require __DIR__ . '/includes/header.php';
       </article>
       <article class="promo-card light">
         <h3>Download and Login</h3>
-        <p>Open YaarWin access from mobile, review your account safety, and use the human teacher if stuck.</p>
-        <a class="text-link" href="/yaarwin-game-login/">Open login guide →</a>
+        <p>Open GameHub access from mobile, review your account safety, and use the human teacher if stuck.</p>
+        <a class="text-link" href="/gamehub-game-login/">Open login guide →</a>
       </article>
     </div>
     <div class="trust-bar">
@@ -369,13 +369,13 @@ require __DIR__ . '/includes/header.php';
     <div class="section-head">
       <div>
         <span class="eyebrow">Player guide hub</span>
-        <h2>Independent YaarWin guides for safer first sessions</h2>
+        <h2>Independent GameHub guides for safer first sessions</h2>
       </div>
       <p>Helpful pages stay below the lobby so visitors can move from game choice to login, bonus, payment and withdrawal checks without confusion.</p>
     </div>
     <div class="content-grid">
       <article class="content-card">
-        <div><h3>Best Online Betting India</h3><p>Compare the game lobby, payment basics, YaarWin access and responsible play checklist.</p></div>
+        <div><h3>Best Online Betting India</h3><p>Compare the game lobby, payment basics, GameHub access and responsible play checklist.</p></div>
         <a class="text-link" href="/best-online-betting-india/">Open guide →</a>
       </article>
       <article class="content-card">
@@ -394,25 +394,25 @@ require __DIR__ . '/includes/header.php';
     <div class="section-head">
       <div>
         <span class="eyebrow">Independent guide FAQ</span>
-        <h2>YaarWin register, login and payment questions</h2>
+        <h2>GameHub register, login and payment questions</h2>
       </div>
-      <p>Quick answers for Indian users who want a clearer YaarWin access guide before registering, logging in, checking games or preparing withdrawals.</p>
+      <p>Quick answers for Indian users who want a clearer GameHub access guide before registering, logging in, checking games or preparing withdrawals.</p>
     </div>
     <div class="faq-block">
       <details>
         <summary>What is Best Online Betting India?</summary>
-        <p>Best Online Betting India is an independent guide for users researching YaarWin registration, login access, popular games, payment checks and withdrawal readiness.</p>
+        <p>Best Online Betting India is an independent guide for users researching GameHub registration, login access, popular games, payment checks and withdrawal readiness.</p>
       </details>
       <details>
-        <summary>How do I register on YaarWin?</summary>
+        <summary>How do I register on GameHub?</summary>
         <p>Use the guided register button, keep invite code <?= e($site['invite_code']) ?> fixed, and review bonus terms, wallet details and responsible play limits before adding funds.</p>
       </details>
       <details>
-        <summary>Is this the official YaarWin website?</summary>
-        <p>No. This is an independent guide that helps users understand YaarWin access, registration, login, games and payment-related information.</p>
+        <summary>Is this the official GameHub website?</summary>
+        <p>No. This is an independent guide that helps users understand GameHub access, registration, login, games and payment-related information.</p>
       </details>
       <details>
-        <summary>What games are available on YaarWin?</summary>
+        <summary>What games are available on GameHub?</summary>
         <p>Users commonly search for Aviator, Teen Patti, Rummy, Wingo colour prediction, cricket betting, slots, live casino and Andar Bahar.</p>
       </details>
     </div>
@@ -423,7 +423,7 @@ require __DIR__ . '/includes/header.php';
     <div class="section-head">
       <div>
         <span class="eyebrow">Player notes</span>
-        <h2>What users like before joining YaarWin</h2>
+        <h2>What users like before joining GameHub</h2>
       </div>
       <p>Short experience notes focused on access, guidance and support readiness for Indian users.</p>
     </div>

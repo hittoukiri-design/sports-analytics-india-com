@@ -25,13 +25,13 @@
   <footer class="site-footer">
     <div class="footer-grid">
       <div>
-        <img src="/assets/img/bobi-yaarwin-logo-footer.webp" alt="Best Online Betting India" width="160" height="160" class="footer-logo" loading="lazy">
-        <p>Best Online Betting India is an independent guide for Indian users comparing YaarWin registration, login access, games, payment checks and withdrawal guidance.</p>
+        <img src="/assets/img/bobi-gamehub-logo-footer.webp" alt="Best Online Betting India" width="160" height="160" class="footer-logo" loading="lazy">
+        <p>Best Online Betting India is an independent guide for Indian users comparing GameHub registration, login access, games, payment checks and withdrawal guidance.</p>
       </div>
       <div>
-        <h2>YaarWin Guides</h2>
+        <h2>GameHub Guides</h2>
         <a href="<?= e($site['register_url']) ?>" rel="nofollow noopener" target="_blank">Open Register</a>
-        <a href="/yaarwin-login/">YaarWin Login</a>
+        <a href="/gamehub-login/">GameHub Login</a>
         <a href="/fast-withdrawal-betting-india/">Fast Withdrawal</a>
       </div>
       <div>

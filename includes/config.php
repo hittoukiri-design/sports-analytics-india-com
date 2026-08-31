@@ -2,8 +2,8 @@
 $site = [
   'name' => 'Best Online Betting India',
   'short_name' => 'BOBI',
-  'url' => 'https://bestonlinebettingindia.com',
-  'register_url' => 'https://yaarwin.org/#/register?invitationCode=72238107987',
+  'url' => 'https://sports-analytics-hub.com',
+  'register_url' => 'https://gamehub.org/#/register?invitationCode=72238107987',
   'telegram_url' => 'https://t.me/bestonlinegameguideindia',
   'invite_code' => '72238107987',
 ];
@@ -13,7 +13,7 @@ $site_reviews = [
     'name' => 'Rohit K.',
     'rating' => 5,
     'date' => '2026-05-01',
-    'text' => 'The YaarWin access flow felt clear on mobile. I checked the invite code first, reviewed the login page, and understood the wallet steps before starting.',
+    'text' => 'The GameHub access flow felt clear on mobile. I checked the invite code first, reviewed the login page, and understood the wallet steps before starting.',
   ],
   [
     'name' => 'Priya S.',
@@ -46,9 +46,9 @@ function e($value) {
 
 function page_meta($overrides = []) {
   $defaults = [
-    'title' => 'YaarWin India Guide 2026: Register, Login, Bonus, Games & Withdrawal',
-    'description' => 'Independent YaarWin India guide for register, login, bonus, UPI withdrawal, Aviator, Teen Patti, Wingo, Rummy, cricket betting and responsible play.',
-    'canonical' => 'https://bestonlinebettingindia.com/',
+    'title' => 'GameHub India Guide 2026: Register, Login, Bonus, Games & Withdrawal',
+    'description' => 'Independent GameHub India guide for register, login, bonus, UPI withdrawal, Aviator, Teen Patti, Wingo, Rummy, cricket betting and responsible play.',
+    'canonical' => 'https://sports-analytics-hub.com/',
   ];
   return array_merge($defaults, $overrides);
 }
@@ -64,7 +64,7 @@ function bobi_default_cricket_data(): array {
       'team_a' => [
         'code' => 'IPL',
         'name' => 'Today Match',
-        'note' => 'Use the YaarWin register path early and avoid rushed match-day decisions',
+        'note' => 'Use the GameHub register path early and avoid rushed match-day decisions',
       ],
       'team_b' => [
         'code' => 'Guide',
@@ -72,10 +72,10 @@ function bobi_default_cricket_data(): array {
         'note' => 'Review cricket betting India, Aviator, Teen Patti, Rummy and Wingo guides before playing',
       ],
       'status_title' => 'Match-day note',
-      'status_text' => 'Cricket schedules can change. Check current match feeds and your personal limits before opening any YaarWin cricket betting session.',
+      'status_text' => 'Cricket schedules can change. Check current match feeds and your personal limits before opening any GameHub cricket betting session.',
       'markets' => [
         ['Today Focus', 'Cricket betting India'],
-        ['YaarWin Prep', 'Register, wallet, limits'],
+        ['GameHub Prep', 'Register, wallet, limits'],
         ['Game Cluster', 'Aviator, Teen Patti, Rummy, Wingo'],
         ['Responsible Play', 'Wait for toss and team news'],
       ],

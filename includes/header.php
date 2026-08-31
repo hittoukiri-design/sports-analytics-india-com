@@ -22,7 +22,7 @@ $body_class = $body_class ?? '';
   <meta property="og:description" content="<?= e($meta['description']) ?>">
   <meta property="og:type" content="website">
   <meta property="og:url" content="<?= e($meta['canonical']) ?>">
-  <meta property="og:image" content="<?= e($site['url']) ?>/assets/img/bobi-yaarwin-logo.webp">
+  <meta property="og:image" content="<?= e($site['url']) ?>/assets/img/bobi-gamehub-logo.webp">
   <meta name="twitter:card" content="summary_large_image">
   <script type="application/ld+json">
   {
@@ -47,14 +47,14 @@ $body_class = $body_class ?? '';
   <a class="skip-link" href="#main">Skip to content</a>
   <header class="site-header">
     <div class="top-strip">
-      <span>Independent YaarWin guide</span>
+      <span>Independent GameHub guide</span>
       <span>India betting games</span>
       <span>Fast UPI access</span>
       <span>18+ play responsibly</span>
     </div>
     <nav class="nav-shell" aria-label="Main navigation">
       <a class="brand" href="/" aria-label="Best Online Betting India home">
-        <img src="/assets/img/bobi-yaarwin-logo-header.webp" alt="Best Online Betting India" width="128" height="128">
+        <img src="/assets/img/bobi-gamehub-logo-header.webp" alt="Best Online Betting India" width="128" height="128">
       </a>
       <button class="nav-toggle" type="button" aria-expanded="false" aria-controls="site-menu">Menu</button>
       <div class="nav-menu" id="site-menu">

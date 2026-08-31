@@ -1,8 +1,8 @@
 <?php
 $meta = [
   'title' => 'Responsible Gaming India | Best Online Betting India',
-  'description' => 'Responsible gaming reminders for YaarWin users in India covering budget limits, breaks, OTP safety and support contact.',
-  'canonical' => 'https://bestonlinebettingindia.com/responsible-gaming/',
+  'description' => 'Responsible gaming reminders for GameHub users in India covering budget limits, breaks, OTP safety and support contact.',
+  'canonical' => 'https://sports-analytics-hub.com/responsible-gaming/',
 ];
 require dirname(__DIR__) . '/includes/header.php';
 ?>

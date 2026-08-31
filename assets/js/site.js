@@ -131,14 +131,14 @@ if (navToggle && navMenu) {
 
     const eyebrow = document.createElement('div');
     eyebrow.className = 'promo-nudge__eyebrow';
-    eyebrow.textContent = 'YaarWin register window';
+    eyebrow.textContent = 'GameHub register window';
 
     const headline = document.createElement('strong');
     headline.id = 'promo-nudge-title';
     headline.textContent = 'Ready to start with invite code 72238107987?';
 
     const copy = document.createElement('p');
-    copy.textContent = 'Open the guided YaarWin registration path before the next cricket betting India session.';
+    copy.textContent = 'Open the guided GameHub registration path before the next cricket betting India session.';
 
     const cta = document.createElement('a');
     cta.className = 'promo-nudge__cta';

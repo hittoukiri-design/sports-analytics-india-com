@@ -2,7 +2,7 @@
 $meta = [
   'title' => 'Terms | Best Online Betting India',
   'description' => 'Terms and responsible use notes for Best Online Betting India online betting guide pages.',
-  'canonical' => 'https://bestonlinebettingindia.com/terms/',
+  'canonical' => 'https://sports-analytics-hub.com/terms/',
 ];
 require dirname(__DIR__) . '/includes/header.php';
 ?>
