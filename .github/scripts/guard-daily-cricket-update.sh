@@ -30,7 +30,7 @@ fi
 
 required_home_markers=(
   "require_once __DIR__ . '/includes/config.php'"
-  "YaarWin India Guide 2026: Register, Login, Bonus, Games & Withdrawal"
+  "GameHub India Guide 2026: Register, Login, Bonus, Games & Withdrawal"
   "require __DIR__ . '/includes/header.php'"
   "require __DIR__ . '/includes/footer.php'"
 )
@@ -61,7 +61,7 @@ trap 'rm -f "$home_render" "$article_render"' EXIT
 php -d display_errors=1 -r '$_SERVER["REQUEST_URI"]="/"; include "index.php";' > "$home_render"
 php -d display_errors=1 -r '$_SERVER["REQUEST_URI"]="/cricket-betting-india/"; include "page-template.php";' > "$article_render"
 
-if ! grep -Fq '<h1>YaarWin India Guide 2026: Register, Login, Bonus, Games & Withdrawal</h1>' "$home_render"; then
+if ! grep -Fq '<h1>GameHub India Guide 2026: Register, Login, Bonus, Games & Withdrawal</h1>' "$home_render"; then
   echo "::error file=index.php::Homepage smoke render lost the protected H1."
   blocked=1
 fi

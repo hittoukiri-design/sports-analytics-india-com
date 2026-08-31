@@ -5,8 +5,8 @@ DirectoryIndex index.php index.html
 RewriteEngine On
 RewriteBase /
 
-RewriteCond %{HTTP_HOST} ^www\.bestonlinebettingindia\.com$ [NC]
-RewriteRule ^ https://bestonlinebettingindia.com%{REQUEST_URI} [L,R=301]
+RewriteCond %{HTTP_HOST} ^www\.sports-analytics-hub\.com$ [NC]
+RewriteRule ^ https://sports-analytics-hub.com%{REQUEST_URI} [L,R=301]
 
 RewriteCond %{HTTPS} !=on
 RewriteRule ^ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
@@ -20,13 +20,13 @@ RewriteRule ^(.*/)?index\.php$ /$1 [R=301,L]
 RewriteCond %{THE_REQUEST} \s/+(.+?)\.php[\s?] [NC]
 RewriteRule ^ %1/ [R=301,L]
 
-RewriteRule ^(best-online-betting-india|yaarwin|yaarwin-login|yaarwin-register|yaarwin-app|yaarwin-withdrawal|yaarwin-review|yaarwin-withdrawal-pending|yaarwin-invite-code|yaarwin-otp-not-received|yaarwin-upi-deposit|yaarwin-bonus-code-india|yaarwin-app-download|yaarwin-vs-1xbet-india|yaarwin-vs-parimatch-india|yaarwin-game-login|aviator-betting-india|teen-patti-online|rummy-game-india|wingo-game-india|cricket-betting-india|dc-vs-csk-result-ipl-2026|lsg-vs-rcb-result-ipl-2026|dc-vs-kkr-result-ipl-2026|rr-vs-gt-result-ipl-2026|srh-vs-pbks-preview-ipl-2026|srh-vs-pbks-235-4-recap-ipl-2026|csk-vs-lsg-result-ipl-2026|rcb-vs-mi-result-ipl-2026|fast-withdrawal-betting-india|slots-game-india|live-casino-india|andar-bahar-online|blog|guides|how-to)$ /$1/ [R=301,L]
+RewriteRule ^(best-online-betting-india|gamehub|gamehub-login|gamehub-register|gamehub-app|gamehub-withdrawal|gamehub-review|gamehub-withdrawal-pending|gamehub-invite-code|gamehub-otp-not-received|gamehub-upi-deposit|gamehub-bonus-code-india|gamehub-app-download|gamehub-vs-1xbet-india|gamehub-vs-parimatch-india|gamehub-game-login|aviator-betting-india|teen-patti-online|rummy-game-india|wingo-game-india|cricket-betting-india|dc-vs-csk-result-ipl-2026|lsg-vs-rcb-result-ipl-2026|dc-vs-kkr-result-ipl-2026|rr-vs-gt-result-ipl-2026|srh-vs-pbks-preview-ipl-2026|srh-vs-pbks-235-4-recap-ipl-2026|csk-vs-lsg-result-ipl-2026|rcb-vs-mi-result-ipl-2026|fast-withdrawal-betting-india|slots-game-india|live-casino-india|andar-bahar-online|blog|guides|how-to)$ /$1/ [R=301,L]
 
 RewriteCond %{REQUEST_FILENAME} -f [OR]
 RewriteCond %{REQUEST_FILENAME} -d
 RewriteRule ^ - [L]
 
-RewriteRule ^(best-online-betting-india|yaarwin|yaarwin-login|yaarwin-register|yaarwin-app|yaarwin-withdrawal|yaarwin-review|yaarwin-withdrawal-pending|yaarwin-invite-code|yaarwin-otp-not-received|yaarwin-upi-deposit|yaarwin-bonus-code-india|yaarwin-app-download|yaarwin-vs-1xbet-india|yaarwin-vs-parimatch-india|yaarwin-game-login|aviator-betting-india|teen-patti-online|rummy-game-india|wingo-game-india|cricket-betting-india|dc-vs-csk-result-ipl-2026|lsg-vs-rcb-result-ipl-2026|dc-vs-kkr-result-ipl-2026|rr-vs-gt-result-ipl-2026|srh-vs-pbks-preview-ipl-2026|srh-vs-pbks-235-4-recap-ipl-2026|csk-vs-lsg-result-ipl-2026|rcb-vs-mi-result-ipl-2026|fast-withdrawal-betting-india|slots-game-india|live-casino-india|andar-bahar-online|blog|guides|how-to)/?$ /page-template.php [L,QSA]
+RewriteRule ^(best-online-betting-india|gamehub|gamehub-login|gamehub-register|gamehub-app|gamehub-withdrawal|gamehub-review|gamehub-withdrawal-pending|gamehub-invite-code|gamehub-otp-not-received|gamehub-upi-deposit|gamehub-bonus-code-india|gamehub-app-download|gamehub-vs-1xbet-india|gamehub-vs-parimatch-india|gamehub-game-login|aviator-betting-india|teen-patti-online|rummy-game-india|wingo-game-india|cricket-betting-india|dc-vs-csk-result-ipl-2026|lsg-vs-rcb-result-ipl-2026|dc-vs-kkr-result-ipl-2026|rr-vs-gt-result-ipl-2026|srh-vs-pbks-preview-ipl-2026|srh-vs-pbks-235-4-recap-ipl-2026|csk-vs-lsg-result-ipl-2026|rcb-vs-mi-result-ipl-2026|fast-withdrawal-betting-india|slots-game-india|live-casino-india|andar-bahar-online|blog|guides|how-to)/?$ /page-template.php [L,QSA]
 </IfModule>
 
 <IfModule mod_headers.c>
@@ -40,7 +40,7 @@ Header always set Cross-Origin-Opener-Policy "same-origin-allow-popups"
 Header always set X-DNS-Prefetch-Control "off"
 Header always set X-Download-Options "noopen"
 Header always set X-Permitted-Cross-Domain-Policies "none"
-Header always set Content-Security-Policy "default-src 'self'; base-uri 'self'; object-src 'none'; frame-ancestors 'self'; form-action 'self' https://yaarwin.org; img-src 'self' data: https:; font-src 'self' data: https:; style-src 'self' 'unsafe-inline' https:; script-src 'self' 'unsafe-inline' https://static.cloudflareinsights.com; connect-src 'self' https://api.telegram.org https://static.cloudflareinsights.com; upgrade-insecure-requests"
+Header always set Content-Security-Policy "default-src 'self'; base-uri 'self'; object-src 'none'; frame-ancestors 'self'; form-action 'self' https://gamehub.org; img-src 'self' data: https:; font-src 'self' data: https:; style-src 'self' 'unsafe-inline' https:; script-src 'self' 'unsafe-inline' https://static.cloudflareinsights.com; connect-src 'self' https://api.telegram.org https://static.cloudflareinsights.com; upgrade-insecure-requests"
 <FilesMatch "\.(?:css|js|png|webp|jpg|jpeg|gif|svg|ico|woff2?)$">
   Header set Cache-Control "public, max-age=2592000, immutable"
 </FilesMatch>
